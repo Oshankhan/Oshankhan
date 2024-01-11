@@ -3,8 +3,8 @@
 preview
 <h1 align="center">Hi 👋, I'm oshan</h1>
 <h3 align="center">A passionate full Stack developer</h3>
-<svg src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="matrix_img">
 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 
 
 <h3 align="left">Connect with me:</h3>
